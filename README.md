@@ -7,7 +7,7 @@ Ensemble deep learning project for 30-class brain tumor MRI classification.
 
 2. In Colab, select:
 
-   `Runtime → Change runtime type → A100`
+   `Runtime → Change runtime type → A100` (to reduce total runtime use A100 if not availabe use T4)
 
 3. Click Runall( dataset downloads automatically when code is run)
 
